@@ -26,7 +26,7 @@ SRCS = smbus.c testBMP085.c
 OBJS = $(SRCS:.c=.o)
 
 # define the executable file 
-MAIN = testBmp065
+MAIN = testBMP085
 
 #
 # The following part of the makefile is generic; it can be used to 
